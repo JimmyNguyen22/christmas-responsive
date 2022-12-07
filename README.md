@@ -1,4 +1,4 @@
-# Responsive Christmas Website Design Using HTML CSS & JavaScript
+# Responsive Christmas Website Design Using HTML CSS & JavaScript ⛄️
 
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
